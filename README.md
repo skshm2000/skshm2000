@@ -37,12 +37,12 @@
   <br/>
   <div align="center">
   <p>
-    <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm2000&show_icons=true&locale=en&layout=compact" alt="skshm2000" />
+    <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm2000&show_icons=true&locale=en&layout=compact" alt="skshm2000" />
   </p>
   <p>
     <img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skshm2000&" alt="skshm2000" />
   </p>
   <p  align="center">
-    <img  width="350px" align="right" src="https://github-readme-stats.vercel.app/api?username=skshm2000&show_icons=true&locale=en" alt="skshm2000" />
+    <img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=skshm2000&show_icons=true&locale=en" alt="skshm2000" />
   </p>
   </div>
