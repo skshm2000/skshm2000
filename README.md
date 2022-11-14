@@ -36,9 +36,9 @@
   <img alt="Janhavi singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=skshm2000&theme=high-contrast&hide_border=true" />
   <br/>
   <div align="center">
-  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
-<p><img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Janhaviprabhu&" alt="janhavi" /></p>
-  <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Janhaviprabhu&show_icons=true&locale=en" alt="janhavi" /></p></div>
+  <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm2000&show_icons=true&locale=en&layout=compact" alt="skshm2000" /></p>
+<p><img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skshm2000&" alt="skshm2000" /></p>
+  <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=skshm2000&show_icons=true&locale=en" alt="skshm2000" /></p></div>
 <div align="center">
                    
   <h2>Here's a random developer joke </h2>
