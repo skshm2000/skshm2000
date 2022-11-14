@@ -15,10 +15,9 @@
 - 💬Have a look at my [portfolio](https://skshm2000.github.io/).
 
 - 📫 How to reach me **sakshamselwal2000@gmail.com**
-
-## 🌐 Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhaviprabhu2604/)
-  <p align="left"></p>
+  
+[![LinkedIn](https://www.linkedin.com/in/saksham-selwal-a33708155/)
+<p align="left"></p>
 <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 <h1 align="left">Languages and Tools:</h1>
   <div>
@@ -34,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
  <h3>📊 Some Stats</h3>
-  <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Janhavi singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=Janhaviprabhu&theme=react-dark&hide_border=true" /></a>
+  <a href="https://github.com/nnishks/github-readme-activity-graph"><img alt="Janhavi singh activity graph" src="https://activity-graph.herokuapp.com/graph?username=skshm2000&theme=react-dark&hide_border=true" /></a>
   <br/>
   <div align="center">
   <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
