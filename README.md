@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
  <h3>📊 Some Stats</h3>
-  [![Saksham's github activity graph](https://activity-graph.herokuapp.com/graph?username=skshm2000)]
+  [![Saksham's github activity graph](https://activity-graph.herokuapp.com/graph?username=skshm2000)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
   <div align="center">
   <p><img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Janhaviprabhu&show_icons=true&locale=en&layout=compact" alt="gucci1909" /></p>
