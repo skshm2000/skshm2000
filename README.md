@@ -35,7 +35,7 @@
  <h3>📊 Some Stats</h3>
   <img alt="Saksham's activity graph" src="https://activity-graph.herokuapp.com/graph?username=skshm2000&theme=high-contrast&hide_border=true" />
   <br/>
-  <div display="flex" align="center">
+  <div align="center">
   <p>
     <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm2000&show_icons=true&locale=en&layout=compact" alt="skshm2000" />
   </p>
