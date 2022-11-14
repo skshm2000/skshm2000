@@ -40,13 +40,3 @@
 <p><img  width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skshm2000&" alt="skshm2000" /></p>
   <p  align="center"><img  width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=skshm2000&show_icons=true&locale=en" alt="skshm2000" /></p></div>
 <div align="center">
-                   
-  <h2>Here's a random developer joke </h2>
-                   
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-</div>
-                                                                            
-<p align="center">
-  <code>Refresh the page for a new joke</code>
-</p>
-
